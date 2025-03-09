@@ -314,6 +314,12 @@ def main() -> None:
             - Use a reputable password manager
             """)
 
+    # Footer
+    st.markdown("""
+    ---
+    *Created by **Syed Uns Haider Zaidi***
+    """)
+
 
 if __name__ == "__main__":
     main()
